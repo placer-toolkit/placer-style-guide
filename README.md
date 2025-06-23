@@ -167,3 +167,5 @@ We borrow most comma and full stop rules from the [Associated Press Stylebook](h
 #### 12‐hour vs 24‐hour format
 
 Very simple to talk about, use the 12‐hour format in English and use the 24‐hour format in other languages that prefer it over the 12‐hour format.
+
+© 2025 Placer and its contributors
