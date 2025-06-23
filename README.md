@@ -168,4 +168,8 @@ We borrow most comma and full stop rules from the [Associated Press Stylebook](h
 
 Very simple to talk about, use the 12‐hour format in English and use the 24‐hour format in other languages that prefer it over the 12‐hour format.
 
+---
+
+_This work is licenced under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You may view our human-generated summary at [LICENSE.md](./LICENSE.md) or obtain a copy of the official licence at [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0)_
+
 © 2025 Placer and its contributors
