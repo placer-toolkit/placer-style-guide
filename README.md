@@ -3,7 +3,7 @@
 **The official style guide for projects made by Placer. ✨**
 
 > [!TIP]
-> Design tokens listed in this style guide are referring to our internal project we’re currently working on called “Placer Toolkit”. We won’t tell you what it is though, _yet_. But we’ll give you a little hint: It’s a UI library of components, but what revolutionary technology are we using? Find out yourself! 🤫
+> Design tokens listed in this style guide are referring to our internal project we’re currently working on called “Placer Toolkit”. We won’t tell you what it is though, _yet_. But we’ll give you a little hint: It’s a UI library of components, but with a framework/library you _probably_ never expected. 🤫
 
 ## Font stacks
 
@@ -51,15 +51,16 @@ Use these font sizes accordingly to what that section of text is best described 
 > [!NOTE]
 > Font values from `rem` converted to px values are based on a root font size of 16px.
 
-| Text style        | Design token               | Font size       | Use case              |
-| :---------------- | :------------------------- | :-------------- | :-------------------- |
-| Title (Heading 1) | `var(--pc-font-size-xxxl)` | 2.5rem (40px)   | Titles, main headings |
-| Heading 2         | `var(--pc-font-size-xxl)`  | 2rem (32px)     | Main sections         |
-| Heading 3         | `var(--pc-font-size-xl)`   | 1.5rem (24px)   | Subsections, cards    |
-| Body text         | `var(--pc-font-size-m)`    | 1rem (16px)     | Paragraphs            |
-| Small text        | `var(--pc-font-size-s)`    | 0.875rem (14px) | Captions, footnotes   |
+| Text style        | Design token               | Font size       | Use case                        |
+| :---------------- | :------------------------- | :-------------- | :------------------------------ |
+| Title (Heading 1) | `var(--pc-font-size-xxxl)` | 2.5rem (40px)   | Titles, main headings           |
+| Heading 2         | `var(--pc-font-size-xxl)`  | 2rem (32px)     | Main sections                   |
+| Heading 3         | `var(--pc-font-size-xl)`   | 1.5rem (24px)   | Subsections, cards              |
+| Heading 4         | `var(--pc-font-size-l)`    | 1.25rem (20px)  | Smaller sections in subsections |
+| Body text         | `var(--pc-font-size-m)`    | 1rem (16px)     | Paragraphs                      |
+| Small text        | `var(--pc-font-size-s)`    | 0.875rem (14px) | Captions, footnotes             |
 
-We find headings 4, 5 and 6 are largely unnecessary and can be often replaced with `<small>`.
+We find the `<h5>` and `<h6>` elements largely unnecessary and can often be replaced with `<small>`.
 
 ## Font weights
 
@@ -130,16 +131,16 @@ We prefer the ellipsis symbol (…) instead of three full stops (...), as that i
 
 Hyphens… oh yes. You should generally use true hyphens (‐, U+2010) over traditional hyphen‐minuses (-, U+002D) that were introduced during the typewriter era. But there are exceptions. You shouldn’t use true hyphens for pre‐established terms that use hyphens in their name, that don’t officially use true hyphens, which is generally the case. Examples include SHA-512 and Mercedez-Benz.
 
-#### En‐dashes, Em‐dashes and the mathematical minus symbol
+#### En‐dashes, em‐dashes and the mathematical minus symbol
 
-You might be asking yourself, “When should I use this over the other?”, and a bunch load of other questions. This is typical. So here’s a short summary on when to use what:
+You might be asking yourself, “When should I use this over the other?”, and a bunch load of other questions. So here’s a short summary on when to use what:
 
 -   Use en‐dashes (–) for ranges (e.g. 1–10 or London–New York flight).
 -   Use em‐dashes (—) for breaks in a sentence (e.g. “Em‐dashes break up sentences—like that”).
 -   Use the mathematical minus symbol (−) for obviously, referring to the mathematical minus operator (e.g. 4 − 2 = 2)
 
 > [!TIP]
-> Replace the em‐dash with a spaced out en‐dash if it’s in a title (e.g. **The Summary – Maths in 2024**), for standard sentences, please use an unspaced em‐dash.
+> Replace the em‐dash with a spaced out en‐dash if it’s in a title (e.g. **The Summary – Maths in 2024**), for standard sentences, please use an unspaced em‐dash (“Em‐dashes break up sentences—like that”).
 
 #### Oxford comma (serial comma)
 
@@ -163,6 +164,26 @@ For numbers over 10, you should **always** use the number rather than the word. 
 #### Commas and full stops
 
 We borrow most comma and full stop rules from the [Associated Press Stylebook](https://www.apstylebook.com). You can check it out there and see the rules used there, as it’s usually very similar across the board.
+
+#### Smart quotes vs straight quotes
+
+Use smart quotes whenever possible, except in code, unless if it’s a string in that code, then we recommend using smart quotes (e.g. `console.log("It’s great!")` instead of `console.log("It's great!")`).
+
+But what about apostrophes (’)? Always use the closing single quote for apostrophes (’) instead of the opening single quote (‘) or the apostrophe ('). And for apostrophes at the start of the word (e.g. ’em, _contraction of_ them; ’90s, _contraction of_ 1990s), use the closing single quote as well (’) instead of the opening single quote (‘), as many word processors convert it to ‘em and ‘90s as it assumes that you’re starting the quote. Please manually review how you use apostrophes in your text to comply with this style guide.
+
+And for heights (imperial) and coordinates? Use the prime symbol (′) and double prime symbol (″) instead of the apostrophe ('), the straight double quote ("), the opening single quote (‘) or the closing single quote (’).
+
+**Heights (imperial):**
+
+- ✅ 6′1″
+- ❌ 6’1”
+- ❌ 6'1"
+
+**Coordinates:**
+
+- ✅ 51° 28′ 37″ N, 0° 0′ 2″ W
+- ❌ 51° 28' 37" N, 0° 0' 2" W
+- ❌ 51° 28’ 37” N, 0° 0’ 2” W
 
 #### 12‐hour vs 24‐hour format
 
