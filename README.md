@@ -111,7 +111,7 @@ Usually, it is sentence case. But occassionally, title case is used, but often f
 We are very aware that adhering to our punctuation rules are really hard (we know!), so we provide some general rules that you have to adhere to at a minimum.
 
 -   You **must** use commas, full stops (or periods), semicolons and other punctuation symbols correctly.
--   You **mustn’t** use true hyphens (‐, U+2010) in your text.
+-   You **don’t need to** use true hyphens (‐, U+2010) in your text.
 
     > If you do use true hyphens, you should **only** use them in text that mustn’t adhere to it (e.g. pre‐sent). Pre‐established terms **must** use regular hyphen‐minuses if the pre‐established term uses a hyphen‐minus in the term, which it generally does (e.g. SHA-512, Mercedez‐Benz).
 
