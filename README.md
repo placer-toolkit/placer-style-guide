@@ -150,10 +150,10 @@ TL;DR:
 
 An Oxford comma (or serial comma) is a practise of adding commas before the word “and” or “or” in a list. Examples include “Apples, bananas, and strawberries”, “What’s the first, second, and third quarter like?” Removing them involves removing the comma before the word “and” and “or” in a list, so “Apples, bananas, and strawberries” turns into “Apples, bananas and strawberries”, as well as “What’s the first, second and third quarter like?”
 
-But there is an exception. Occassionally, the Oxford comma/serial comma is necessary to prevent confusion. Here’s an example:
+But there is an exception. Occassionally, the Oxford comma/serial comma is necessary to prevent confusion. Here’s an example.
 
-**With Oxford/serial comma:** “I love my parents, my dog, and my cat.” You love your parents, but also your dogs and your cats.
-**Without Oxford/serial comma:** “I love my parents, my dog and my cat” It could possibly mean that you love your parents, and they’re your dog and your cat.
+**With Oxford/serial comma:** “I love my parents, my dog, and my cat.” You love your parents and your pets (i.e., your dog and your cat).
+**Without Oxford/serial comma:** “I love my parents, my dog and my cat” It could possibly mean, that your dog and cat are your parents.
 
 Here, you should use the Oxford/serial comma to prevent confusion.
 
@@ -175,19 +175,23 @@ And for heights (imperial) and coordinates? Use the prime symbol (′) and doubl
 
 **Heights (imperial):**
 
-- ✅ 6′1″
-- ❌ 6’1”
-- ❌ 6'1"
+-   ✅ 6′1″
+-   ❌ 6’1”
+-   ❌ 6'1"
 
 **Coordinates:**
 
-- ✅ 51° 28′ 37″ N, 0° 0′ 2″ W
-- ❌ 51° 28' 37" N, 0° 0' 2" W
-- ❌ 51° 28’ 37” N, 0° 0’ 2” W
+-   ✅ 51° 28′ 37″ N, 0° 0′ 2″ W
+-   ❌ 51° 28' 37" N, 0° 0' 2" W
+-   ❌ 51° 28’ 37” N, 0° 0’ 2” W
 
 #### 12‐hour vs 24‐hour format
 
-Very simple to talk about, use the 12‐hour format in English and use the 24‐hour format in other languages that prefer it over the 12‐hour format.
+Very simple to talk about, use the 12‐hour format in English and use the 24‐hour format in other languages that prefer it over the 12‐hour format. But if the 12‐hour format is used, use “a.m.” and “p.m.” with the full stops in place. Don’t use any other spellings of a.m. and p.m.
+
+-   ✅ 8:12 a.m.
+-   ❌ 8:12 AM
+-   ❌ 8:12 am
 
 ---
 
