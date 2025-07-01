@@ -3,7 +3,7 @@
 **The official style guide for projects made by Placer. ✨**
 
 > [!TIP]
-> Design tokens listed in this style guide are referring to our internal project we’re currently working on called “Placer Toolkit”. We won’t tell you what it is though, _yet_. But we’ll give you a little hint: It’s a UI library of components, but with a framework/library you _probably_ never expected. 🤫
+> Design tokens listed in this style guide are referring to our internal project we’re currently working on called “Placer Toolkit”. It is now available to the public under the [`placer-toolkit` repository](https://github.com/randomguy-2650/placer-toolkit)!
 
 ## Font stacks
 
