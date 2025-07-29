@@ -18,7 +18,7 @@ Placer’s content voice is **authoritative, helpful and precise, yet approachab
 - **Be professional:** Maintain a high standard of accuracy and presentation.
 - **Be enthusiastic (especially for marketing/promotional content):** Convey passion for our tools and their benefits.
 
-**Do:** Use active voice. Address the user directly (“you”). Use plain language.
+**Do:** Use active voice. Address the user directly (“you”). Use plain language.  
 **Don’t:** Use passive voice unless specified. Be overly casual or overly formal (i.e., semi‐formal). Use jargon without explanation.
 
 ## 2. General writing principles
