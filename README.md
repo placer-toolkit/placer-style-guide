@@ -65,10 +65,9 @@ For general punctuation rules, we largely follow the **Associated Press Styleboo
 
 Distinguish clearly between these symbols for precision.
 
-- **Hyphen-minus (`-`, U+002D):** This is the standard hyphen found on keyboards.
+- **Hyphen (`‐`, U+2010):**
     - Use for compound words (e.g., well‐being, state‐of‐the‐art).
-    - Use for established product names or terms that incorporate a hyphen (e.g., SHA-512, Mercedes-Benz).
-    - Use when a “true hyphen” (U+2010) is technically correct but difficult to input consistently in standard authoring environments.
+    - Don’t use the “true hyphen” for established product names or terms that incorporate a hyphen‐minus (e.g., SHA-512, Mercedes-Benz).
 - **En‐dash (`–`, U+2013):**
     - Use for ranges (e.g., 1–10, March–April, London–New York flight).
     - Use to connect two elements of a compound adjective when one or both elements are themselves compound or proper nouns (e.g., post–World War II).
@@ -83,8 +82,8 @@ Distinguish clearly between these symbols for precision.
 
 In titles, replace an em‐dash (`—`) with a **spaced en‐dash** (` – `) for better visual flow.
 
-- **Preferred (Title):** `The Summary – Maths in 2024`
-- **Preferred (Sentence):** `Em‐dashes break up sentences—like that.`
+- **Preferred (Title):** Debugging complex applications – A step‐by‐step guide
+- **Preferred (Sentence):** Em‐dashes break up sentences—like that.
 
 ### 3.2. Ellipsis symbol
 
