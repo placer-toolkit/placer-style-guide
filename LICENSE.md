@@ -1,4 +1,4 @@
-# CC BY 4.0
+# Licence (CC BY 4.0)
 
 **You are free to:**
 
