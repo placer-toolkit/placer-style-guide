@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-07-29_  
-_Version 2.0.0, revision Placer-Style-Guide:07-2025_
+_Last updated: 2025-07-31_  
+_Version 2.1.0, revision Placer-Style-Guide:07-2025_
 
 This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -38,9 +38,9 @@ We generally prefer **active voice** because it is clearer, more direct and more
 Use **passive voice** only when:
 
 - The performer of the action is unknown or unimportant.
-    - _Example:_ “The software was updated overnight.” (The specific individual who updated it is not relevant.)
+    - **Example:** “The software was updated overnight.” (The specific individual who updated it is not relevant.)
 - You want to emphasise the action or the receiver of the action.
-    - _Example:_ “Security vulnerabilities were discovered and patched promptly.”
+    - **Example:** “Security vulnerabilities were discovered and patched promptly.”
 
 ### 2.3. Capitalisation
 
@@ -49,14 +49,14 @@ Use **passive voice** only when:
 - **Product names:** Always capitalise product names as officially designated (e.g., “Placer Toolkit”).
 - **Component names:** Capitalise specific Placer Toolkit components (e.g., Animation, Avatar, Badge, Button, Dialog).
 - **Main navigation items and headers:** Capitalise these as they appear on the website (e.g., “Get started”, “Design tokens”, “Components”, “Style utilities”, “Resources”).
-- **UI elements:** Capitalise the names of specific user interface elements (e.g., “Close” button, “Item 1” dropdown option, “Disabled” checkbox state).
+- **UI elements:** Capitalise the names of specific user interface elements (e.g., “Close” button, “Item 1” dropdown item, “Indeterminate” checkbox state).
 - **Proper nouns:** Standard capitalisation rules apply (names, places, specific organisations).
 
 ### 2.4. Numbers and measurements
 
 - **Numbers over 10:** Always use numerals (e.g., 15 users, 200 devices, 10 steps).
 - **Numbers 0–9:** Generally spell out these numbers (e.g., three steps, seven days). Exceptions can be made in tables, graphs or for specific technical contexts where consistency with surrounding numerals is critical (e.g., “version 1.9.2”).
-- **Time formats:** Use the 12‐hour format with “a.m.” and “p.m.” including full stops (e.g., 8:12 a.m., `3:45 p.m.). Do not use “AM” or “PM”.
+- **Time formats:** Use the 12‐hour format with “a.m.” and “p.m.” including full stops (e.g., 8:12 a.m., 3:45 p.m.). Do not use “AM” or “PM”.
 
 ## 3. Punctuation
 
@@ -79,12 +79,11 @@ Distinguish clearly between these symbols for precision.
     - Use specifically for mathematical minus operations (e.g., 4 − 2 = 2).
     - This is visually distinct from the hyphen and en‐dash.
 
-**Tip for titles:**
-
-In titles, replace an em‐dash (`—`) with a **spaced en‐dash** (` – `) for better visual flow.
-
-- **Preferred (Title):** Debugging complex applications – A step‐by‐step guide
-- **Preferred (Sentence):** Em‐dashes break up sentences—like that.
+> [!TIP]
+> In titles, replace an em‐dash (`—`) with a **spaced en‐dash** (` – `) for better visual flow.
+>
+> - **Preferred (Title Case):** Debugging complex applications – A step‐by‐step guide
+> - **Preferred (Sentence case):** Em‐dashes break up sentences—like that.
 
 ### 3.2. Ellipsis symbol
 
@@ -116,8 +115,8 @@ In titles, replace an em‐dash (`—`) with a **spaced en‐dash** (` – `) fo
 ### 3.4. Oxford comma (Serial comma)
 
 - We **do not** use the Oxford/serial comma (the comma before “and” or “or” in a list) in titles, lists or sentences.
-    - **Example (No Oxford Comma):** Apples, bananas and strawberries
-    - **Example (No Oxford Comma):** What’s the first, second and third quarter like?
+    - **Example:** Apples, bananas and strawberries
+    - **Example:** What’s the first, second and third quarter like?
 
 **Exception: Prevent confusion**
 
@@ -154,10 +153,10 @@ In titles, replace an em‐dash (`—`) with a **spaced en‐dash** (` – `) fo
 
 - Refer to UI elements (buttons, menu items, fields, tabs) consistently.
 - Generally capitalise and use bold for UI element names that appear in the software interface.
-    - _Example:_ Click the **OK** button.
-    - _Example:_ Select the **General** tab.
+    - **Example:** Click the **OK** button.
+    - **Example:** Select the **General** tab.
 - But for UI element names that end in some punctuation mark, like an ellipsis (`…`) or an exclamation mark (`!`), omit the full stop.
-    - _Example:_ Navigate to **File > Save as…**
+    - **Example:** Navigate to **File > Save as…**
 
 ## 5. Terminology
 
