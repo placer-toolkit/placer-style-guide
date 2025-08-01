@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-07-31_  
-_Version 2.1.0, revision Placer-Style-Guide:07-2025_
+_Last updated: 2025-08-01_  
+_Version 2.1.1, revision Placer-Style-Guide:08-2025_
 
 This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -66,7 +66,7 @@ For general punctuation rules, we largely follow the **Associated Press Styleboo
 
 Distinguish clearly between these symbols for precision.
 
-- **Hyphen (`‐`, U+2010):**
+- **“True hyphen” (`‐`, U+2010):**
     - Use for compound words (e.g., well‐being, state‐of‐the‐art).
     - Don’t use the “true hyphen” for established product names or terms that incorporate a hyphen‐minus (e.g., SHA-512, Mercedes-Benz).
 - **En‐dash (`–`, U+2013):**
