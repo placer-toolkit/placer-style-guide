@@ -3,7 +3,7 @@
 **The official guide for creating clear, consistent and professional content at Placer.**
 
 _Last updated: 2025-08-01_  
-_Version 2.1.1, revision Placer-Style-Guide:08-2025_
+_Version 2.1.2, revision Placer-Style-Guide:08-2025_
 
 This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -49,7 +49,7 @@ Use **passive voice** only when:
 - **Product names:** Always capitalise product names as officially designated (e.g., “Placer Toolkit”).
 - **Component names:** Capitalise specific Placer Toolkit components (e.g., Animation, Avatar, Badge, Button, Dialog).
 - **Main navigation items and headers:** Capitalise these as they appear on the website (e.g., “Get started”, “Design tokens”, “Components”, “Style utilities”, “Resources”).
-- **UI elements:** Capitalise the names of specific user interface elements (e.g., “Close” button, “Item 1” dropdown item, “Indeterminate” checkbox state).
+- **UI elements:** Capitalise the names of specific user interface elements (e.g., **Close** button, **Item 1** dropdown item).
 - **Proper nouns:** Standard capitalisation rules apply (names, places, specific organisations).
 
 ### 2.4. Numbers and measurements
@@ -170,6 +170,6 @@ Maintain consistent terminology across all content.
 
 ---
 
-_This work is licenced under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You may view our human‐generated summary at [LICENSE.md](./LICENSE.md) or obtain a copy of the official licence at [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0)._
+_This work is licenced under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You may view our human‐generated summary at [LICENSE.md](./LICENSE.md) or obtain a copy of the official licence at [https://creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)._
 
 © 2025 Placer and its contributors
