@@ -13,5 +13,5 @@
 **Notices:**
 
 - You do not have to comply with the licence for elements in the **public domain** or where your use is permitted by an **applicable exception or limitation**.
-- No warranties are given. The licence may not cover all permissions necessary for your intended use. Other rights (e.g. privacy, publicity, moral rights) may still apply.
+- No warranties are given. The licence may not cover all permissions necessary for your intended use. Other rights (e.g., privacy, publicity, moral rights) may still apply.
 - This is a human‐readable summary of (and not a substitute for) the [licence](https://creativecommons.org/licenses/by/4.0/).
