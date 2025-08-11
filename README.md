@@ -2,10 +2,10 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-08-01_  
-_Version 2.1.2, revision Placer-Style-Guide:08-2025_
+_Last updated: 2025-08-11_  
+_Version 2.1.3, revision Placer-Style-Guide:08-2025_
 
-This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
+This style guide provides the essential standards and best practises for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
 This guide aims to be a helpful, practical resource that empowers our content creators. Consistent application of these standards helps us deliver high‐quality, precise information efficiently.
 
