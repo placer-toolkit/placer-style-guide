@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-08-11_  
-_Version 2.1.3, revision Placer-Style-Guide:08-2025_
+_Last updated: 2025-08-12_  
+_Version 2.2.0, revision Placer-Style-Guide:08-2025_
 
 This style guide provides the essential standards and best practises for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -28,7 +28,7 @@ Placer’s content voice is **authoritative, helpful and precise, yet approachab
 
 Our primary audience consists of developers, designers and technical users who are seeking clear, accurate and actionable information about the Placer Toolkit. Content should be written to be understood by someone familiar with web development concepts but may not be an expert in every specific area.
 
-### 2.2. Active vs. passive voice
+### 2.2. Active vs passive voice
 
 We generally prefer **active voice** because it is clearer, more direct and more concise, clearly identifying the performer of an action.
 
@@ -47,8 +47,8 @@ Use **passive voice** only when:
 - **Product names and specifications:** Use **Title Case** for product names or specifications (e.g., “Placer Style Guide”).
 - **All other headings and body text:** Use **Sentence case** (e.g., “This is a section heading.”).
 - **Product names:** Always capitalise product names as officially designated (e.g., “Placer Toolkit”).
-- **Component names:** Capitalise specific Placer Toolkit components (e.g., Animation, Avatar, Badge, Button, Dialog).
-- **Main navigation items and headers:** Capitalise these as they appear on the website (e.g., “Get started”, “Design tokens”, “Components”, “Style utilities”, “Resources”).
+- **Component names:** Capitalise specific Placer Toolkit components (e.g., Avatar, Button, Input).
+- **Main navigation items and headers:** Capitalise these as they appear on the website (e.g., “Get started”, “Components”, “Resources”).
 - **UI elements:** Capitalise the names of specific user interface elements (e.g., **Close** button, **Item 1** dropdown item).
 - **Proper nouns:** Standard capitalisation rules apply (names, places, specific organisations).
 
@@ -140,7 +140,7 @@ Distinguish clearly between these symbols for precision.
 ### 4.3. Emphasis
 
 - Use **bold** for emphasis on key terms, UI elements (buttons, menus) or important warnings.
-- Use _italics_ sparingly for titles of books/software, terms being defined or foreign words.
+- Use _italics_ sparingly for titles of books/software, terms being defined or foreign words. You may also use italics in sentences if you want to provide emphasis, but not as much emphasis as **bolding** would do.
 
 ### 4.4. Code formatting
 
@@ -157,16 +157,6 @@ Distinguish clearly between these symbols for precision.
     - **Example:** Select the **General** tab.
 - But for UI element names that end in some punctuation mark, like an ellipsis (`…`) or an exclamation mark (`!`), omit the full stop.
     - **Example:** Navigate to **File > Save as…**
-
-## 5. Terminology
-
-Maintain consistent terminology across all content.
-
-- **Placer Toolkit:** Always refer to the product by its full, capitalised name.
-- **Components:** Always capitalise specific component names (e.g., Animation, Button Group, QR Code).
-- **User:** Refer to the audience as “user” or “you”. Avoid “customer”, “client” or “developer” unless the context specifically requires it.
-- **Open‐source:** Use this term as displayed on the website.
-- **Customisation:** Use this spelling (with an “s”).
 
 ---
 
