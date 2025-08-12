@@ -3,7 +3,7 @@
 **The official guide for creating clear, consistent and professional content at Placer.**
 
 _Last updated: 2025-08-12_  
-_Version 2.2.0, revision Placer-Style-Guide:08-2025_
+_Version 2.3.0, revision Placer-Style-Guide:08-2025_
 
 This style guide provides the essential standards and best practises for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -68,7 +68,10 @@ Distinguish clearly between these symbols for precision.
 
 - **“True hyphen” (`‐`, U+2010):**
     - Use for compound words (e.g., well‐being, state‐of‐the‐art).
-    - Don’t use the “true hyphen” for established product names or terms that incorporate a hyphen‐minus (e.g., SHA-512, Mercedes-Benz).
+    - Don’t use the “true hyphen” for established product names or terms that incorporate a hyphen‐minus (e.g., SHA-512, Mercedes-Benz, ISBN 978-1-5416-9989-2).
+- **Non‐breaking hyphen (`‑`, U+2011):**
+    - Use when the hyphenated word or name should never break across lines (e.g., co‑founder, Jean‑Paul).
+    - Prevents awkward line breaks that separate parts of a compound word.
 - **En‐dash (`–`, U+2013):**
     - Use for ranges (e.g., 1–10, March–April, London–New York flight).
     - Use to connect two elements of a compound adjective when one or both elements are themselves compound or proper nouns (e.g., post–World War II).
