@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-08-12_  
-_Version 2.3.0, revision Placer-Style-Guide:08-2025_
+_Last updated: 2025-08-16_  
+_Version 2.4.0, revision Placer-Style-Guide:08-2025_
 
 This style guide provides the essential standards and best practises for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -56,7 +56,7 @@ Use **passive voice** only when:
 
 - **Numbers over 10:** Always use numerals (e.g., 15 users, 200 devices, 10 steps).
 - **Numbers 0–9:** Generally spell out these numbers (e.g., three steps, seven days). Exceptions can be made in tables, graphs or for specific technical contexts where consistency with surrounding numerals is critical (e.g., “version 1.9.2”).
-- **Time formats:** Use the 12‐hour format with “a.m.” and “p.m.” including full stops (e.g., 8:12 a.m., 3:45 p.m.). Do not use “AM” or “PM”.
+- **Time formats:** Use the 12‐hour format with “a.m.” and “p.m.” including full stops (e.g., 8:12 a.m., 3:45 p.m.). Do not use “AM” or “PM”.
 
 ## 3. Punctuation
 
@@ -79,14 +79,15 @@ Distinguish clearly between these symbols for precision.
     - Use for abrupt breaks in a sentence, unspaced (e.g., “Em‐dashes break up sentences—like that.”).
     - Use to set off a parenthetical phrase for emphasis.
 - **Mathematical minus (`−`, U+2212):**
-    - Use specifically for mathematical minus operations (e.g., 4 − 2 = 2).
+    - Use specifically for mathematical minus operations (e.g., 4 − 2 = 2).
     - This is visually distinct from the hyphen and en‐dash.
+    - Make sure to use non‐breaking spaces (` `) within the equation, otherwise, it may break up into new lines.
 
 > [!TIP]
-> In titles, replace an em‐dash (`—`) with a **spaced en‐dash** (` – `) for better visual flow.
+> In titles, replace an em‐dash (`—`) with an **en‐dash** spaced out with non‐breaking spaces (` – `) for better visual flow.
 >
-> - **Preferred (Title Case):** Debugging complex applications – A step‐by‐step guide
-> - **Preferred (Sentence case):** Em‐dashes break up sentences—like that.
+> - **Preferred (Within a title):** Debugging complex applications – A step‐by‐step guide
+> - **Preferred (Within a sentence):** Em‐dashes break up sentences—like that.
 
 ### 3.2. Ellipsis symbol
 
