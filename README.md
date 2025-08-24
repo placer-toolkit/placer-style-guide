@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-08-16_  
-_Version 2.4.0, revision Placer-Style-Guide:08-2025_
+_Last updated: 2025-08-24_  
+_Version 2.4.1, revision Placer-Style-Guide:08-2025_
 
 This style guide provides the essential standards and best practises for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -74,7 +74,6 @@ Distinguish clearly between these symbols for precision.
     - Prevents awkward line breaks that separate parts of a compound word.
 - **En‐dash (`–`, U+2013):**
     - Use for ranges (e.g., 1–10, March–April, London–New York flight).
-    - Use to connect two elements of a compound adjective when one or both elements are themselves compound or proper nouns (e.g., post–World War II).
 - **Em‐dash (`—`, U+2014):**
     - Use for abrupt breaks in a sentence, unspaced (e.g., “Em‐dashes break up sentences—like that.”).
     - Use to set off a parenthetical phrase for emphasis.
