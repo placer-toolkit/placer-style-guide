@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-06-18_  
-_Version 2.4.0, Revision Placer-Style-Guide:08-2025_
+_Zuletzt bearbeitet: 2025-06-24_  
+_Version 2.5.0, Revision Placer-Style-Guide:08-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -19,7 +19,7 @@ Die inhaltliche Stimme von Placer ist **sachkundig, hilfreich und präzise, zugl
 - **Professionell sein:** Einen hohen Standard an Genauigkeit und Darstellung wahren.
 - **Begeisterung zu zeigen (insbesondere bei Marketing‐ und Werbeinhalten):** Wir vermitteln Leidenschaft für unsere Produkte und ihren Nutzen.
 
-**So machen Sie es richtig:** Aktiv formulieren, Nutzer direkt ansprechen („Sie“) und einfache Sprache verwenden.
+**So machen Sie es richtig:** Aktiv formulieren, Nutzer direkt ansprechen („Sie“) und einfache Sprache verwenden.  
 **Das sollten Sie vermeiden:** Passiv formulieren (außer wenn nötig), zu salopp oder zu förmlich wirken und Fachjargon ohne Erklärung einsetzen.
 
 ## 2. Allgemeine Schreibprinzipien
@@ -47,9 +47,17 @@ Verwenden Sie die **Passivform** nur, wenn:
 - **Produktnamen und Spezifikationen:** Immer in **Großschreibung der Anfangsbuchstaben** (z. B. „Placer Style Guide“).
 - **Alle anderen Überschriften und Fließtext:** Verwenden Sie **Groß‐ und Kleinschreibung des Satzanfangs** (z. B. „Dies ist eine Abschnittsüberschrift.“).
 - **Produktnamen:** Immer so schreiben, wie offiziell festgelegt (z. B. „Placer Toolkit“).
-- **Komponentenbezeichnungen:** Spezifische Toolkit‐Komponenten großschreiben (z. B. Avatar, Button, Input).
+- **Komponentenbezeichnungen:** Spezifische Placer Toolkit‐Komponenten großschreiben (z. B. Avatar, Button, Input).
 - **Benutzeroberflächenelemente:** Namen spezifischer Bedienelemente großschreiben (z. B. **Schließen**‐Schaltfläche, **Element 1** im Dropdown).
 - **Eigennamen:** Normale Regeln für Eigennamen beachten (Personen, Orte, Organisationen).
+
+#### 2.3.1 Versalschrift
+
+In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das große Eszett (`ẞ`) statt „ss“.
+
+- **Straße** → **STRAẞE**
+- **Maße** → **MAẞE**
+- **Spaß** → **SPAẞ**
 
 ### 2.4. Zahlen und Maße
 
@@ -73,7 +81,6 @@ Diese Zeichen sind klar zu unterscheiden:
     - Verwenden Sie dieses Zeichen, wenn ein Wort nicht am Zeilenende getrennt werden darf (z. B. Co‑Founder, Jean‑Paul).
 - **Halbgeviertstrich (`–`, U+2013):**
     - Für Zahlen‐ und Datumsbereiche (z. B. 1–10, März–April, Berlin–Hamburg‐Flug).
-    - Auch zur Verbindung in zusammengesetzten Adjektiven verwenden, wenn Teile selbst aus mehreren Wörtern oder Eigennamen bestehen (z. B. post–World War 2).
 - **Gedankenstrich (` – `, NBSP–U+2013–NBSP):**
     - Für Einschübe, die Sätze unterbrechen (z. B. „Dieser Satz wird – wie dieser Einschub – durch einen Gedankenstrich gegliedert.“).
     - **Hinweis:** Im Deutschen wird der Gedankenstrich in der Regel mit Leerzeichen verwendet, nicht wie im Englischen ohne.
