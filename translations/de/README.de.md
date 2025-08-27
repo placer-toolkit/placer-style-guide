@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-06-24_  
-_Version 2.5.0, Revision Placer-Style-Guide:08-2025_
+_Zuletzt bearbeitet: 2025-06-27_  
+_Version 2.6.0, Revision Placer-Style-Guide:08-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -24,11 +24,22 @@ Die inhaltliche Stimme von Placer ist **sachkundig, hilfreich und präzise, zugl
 
 ## 2. Allgemeine Schreibprinzipien
 
-### 2.1. Zielgruppe
+### 2.1. Rechtschreibung
+
+Unser Styleguide basiert auf der **modernen deutschen Orthografie**. Wir folgen den Regeln der Rechtschreibreform von 1996 in ihrer überarbeiteten Fassung von 2006.
+
+Wir bevorzugen die klaren und logischen Schreibweisen, die die Reform eingeführt hat, einschließlich:
+
+- Die konsistente Verwendung von **ss** und **ß** nach kurzen bzw. langen Vokalen (z. B. dass, Straße).
+- Die Vereinfachung bestimmter Schreibweisen (z. B. **Grafik** statt Graphik, **Schifffahrt** statt Schiffahrt).
+
+Für zusammengesetzte Verben und Substantive verwenden wir die standardmäßige Zusammenschreibung (z. B. eislaufen, radfahren), um die Lesbarkeit und Einheitlichkeit von Begriffen zu gewährleisten.
+
+### 2.2. Zielgruppe
 
 Unsere Hauptzielgruppe sind Entwickler, Designer und technisch versierte Anwender, die klare, genaue und umsetzbare Informationen zum Placer Toolkit suchen. Die Inhalte sollten so geschrieben sein, dass sie für jemanden mit Grundkenntnissen in der Webentwicklung verständlich sind, auch wenn er nicht in jedem Teilbereich Experte ist.
 
-### 2.2. Aktiv vs. Passiv
+### 2.3. Aktiv vs. Passiv
 
 Wir bevorzugen in der Regel die **Aktivform**, da sie klarer, direkter und prägnanter ist und eindeutig den Handelnden benennt.
 
@@ -42,7 +53,7 @@ Verwenden Sie die **Passivform** nur, wenn:
 - Die Handlung oder deren Empfänger betont werden soll.
     - **Beispiel:** „Sicherheitslücken wurden entdeckt und umgehend geschlossen.“
 
-### 2.3. Groß‐ und Kleinschreibung
+### 2.4. Groß‐ und Kleinschreibung
 
 - **Produktnamen und Spezifikationen:** Immer in **Großschreibung der Anfangsbuchstaben** (z. B. „Placer Style Guide“).
 - **Alle anderen Überschriften und Fließtext:** Verwenden Sie **Groß‐ und Kleinschreibung des Satzanfangs** (z. B. „Dies ist eine Abschnittsüberschrift.“).
@@ -51,7 +62,7 @@ Verwenden Sie die **Passivform** nur, wenn:
 - **Benutzeroberflächenelemente:** Namen spezifischer Bedienelemente großschreiben (z. B. **Schließen**‐Schaltfläche, **Element 1** im Dropdown).
 - **Eigennamen:** Normale Regeln für Eigennamen beachten (Personen, Orte, Organisationen).
 
-#### 2.3.1 Versalschrift
+#### 2.4.1 Versalschrift
 
 In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das große Eszett (`ẞ`) statt „ss“.
 
@@ -59,7 +70,7 @@ In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das groß
 - **Maße** → **MAẞE**
 - **Spaß** → **SPAẞ**
 
-### 2.4. Zahlen und Maße
+### 2.5. Zahlen und Maße
 
 - **Zahlen über 10:** Immer Ziffern verwenden (z. B. 15 Nutzer, 200 Geräte, 10 Schritte).
 - **Zahlen 0–9:** Ausgeschrieben (z. B. drei Schritte, sieben Tage). Ausnahme: Tabellen, Diagramme oder technische Kontexte, in denen Einheitlichkeit mit Ziffern entscheidend ist (z. B. „Version 1.9.2“).
