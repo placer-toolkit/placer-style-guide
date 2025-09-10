@@ -2,10 +2,10 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-08-24_  
-_Version 2.4.1, revision Placer-Style-Guide:08-2025_
+_Last updated: 2025-09-10_  
+_Version 2.5.0, revision Placer-Style-Guide:09-2025_
 
-This style guide provides the essential standards and best practises for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
+This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
 This guide aims to be a helpful, practical resource that empowers our content creators. Consistent application of these standards helps us deliver high‐quality, precise information efficiently.
 
@@ -44,11 +44,9 @@ Use **passive voice** only when:
 
 ### 2.3. Capitalisation
 
-- **Product names and specifications:** Use **Title Case** for product names or specifications (e.g., “Placer Style Guide”).
+- **Product names and specifications:** Use **Title Case** for product names or specifications (e.g., Placer Style Guide).
 - **All other headings and body text:** Use **Sentence case** (e.g., “This is a section heading.”).
-- **Product names:** Always capitalise product names as officially designated (e.g., “Placer Toolkit”).
-- **Component names:** Capitalise specific Placer Toolkit components (e.g., Avatar, Button, Input).
-- **Main navigation items and headers:** Capitalise these as they appear on the website (e.g., “Get started”, “Components”, “Resources”).
+- **Product names:** Always capitalise product names as officially designated (e.g., Placer Toolkit).
 - **UI elements:** Capitalise the names of specific user interface elements (e.g., **Close** button, **Item 1** dropdown item).
 - **Proper nouns:** Standard capitalisation rules apply (names, places, specific organisations).
 
@@ -78,9 +76,10 @@ Distinguish clearly between these symbols for precision.
     - Use for abrupt breaks in a sentence, unspaced (e.g., “Em‐dashes break up sentences—like that.”).
     - Use to set off a parenthetical phrase for emphasis.
 - **Mathematical minus (`−`, U+2212):**
-    - Use specifically for mathematical minus operations (e.g., 4 − 2 = 2).
+    - Use specifically for mathematical minus operations (e.g., $4 − 2 = 2$).
     - This is visually distinct from the hyphen and en‐dash.
     - Make sure to use non‐breaking spaces (` `) within the equation, otherwise, it may break up into new lines.
+        - We recommend [MathML](https://developer.mozilla.org/en-US/docs/Web/MathML) for maths instead, unless necessary, prefer using this.
 
 > [!TIP]
 > In titles, replace an em‐dash (`—`) with an **en‐dash** spaced out with non‐breaking spaces (` – `) for better visual flow.
@@ -88,12 +87,44 @@ Distinguish clearly between these symbols for precision.
 > - **Preferred (Within a title):** Debugging complex applications – A step‐by‐step guide
 > - **Preferred (Within a sentence):** Em‐dashes break up sentences—like that.
 
-### 3.2. Ellipsis symbol
+### 3.2. SI conventions
+
+We recommend following SI conventions throughout your content.
+
+- Add a **narrow non‐breaking space (` `, U+202F)** between the unit and the number (per cent is also treated as a unit).
+- Use the same narrow non‐breaking space for the **thousands separator**.
+- Use a comma instead of a full stop for **decimal separators** (although SI allows both).
+
+Make sure you also use the proper SI units and avoid incorrect forms (e.g., KB for kilobyte instead of **kB**).
+
+**Thousands separator:**
+
+- ❌ 1,234,567.89
+- ❌ 1.234.567,89
+- ❌ 12,34,567.89
+- ✅ 1 234 567,89
+
+**Distances:**
+
+- ❌ 3.2km
+- ✅ 3,2 km
+
+**Percentages:**
+
+- ❌ 79%
+- ✅ 79 %
+
+**Time:**
+
+- ❌ 12 min. 36 sec.
+- ✅ 12 min 36 s
+
+### 3.3. Ellipsis symbol
 
 - Always use the single **ellipsis character (`…`, U+2026)** instead of three individual full stops (`...`).
 - The ellipsis symbol is more typographically correct and flows better within the sentence.
 
-### 3.3. Smart quotes vs straight quotes
+### 3.4. Smart quotes vs straight quotes
 
 - Use **smart quotes (`“”` for double, `‘’` for single)** whenever possible for a professional typographic appearance.
 - Do not use straight quotes (`""` or `'`).
@@ -115,7 +146,7 @@ Distinguish clearly between these symbols for precision.
         - ❌ `51° 28’ 37” N, 0° 0’ 2” W`
         - ❌ `51° 28' 37" N, 0° 0' 2" W`
 
-### 3.4. Oxford comma (Serial comma)
+### 3.5. Oxford comma (Serial comma)
 
 - We **do not** use the Oxford/serial comma (the comma before “and” or “or” in a list) in titles, lists or sentences.
     - **Example:** Apples, bananas and strawberries
