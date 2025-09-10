@@ -3,7 +3,7 @@
 **The official guide for creating clear, consistent and professional content at Placer.**
 
 _Last updated: 2025-09-10_  
-_Version 2.5.0, revision Placer-Style-Guide:09-2025_
+_Version 2.5.1, revision Placer-Style-Guide:09-2025_
 
 This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -99,25 +99,25 @@ Make sure you also use the proper SI units and avoid incorrect forms (e.g., KB f
 
 **Thousands separator:**
 
+- ✅ 1 234 567,89
 - ❌ 1,234,567.89
 - ❌ 1.234.567,89
 - ❌ 12,34,567.89
-- ✅ 1 234 567,89
 
 **Distances:**
 
-- ❌ 3.2km
 - ✅ 3,2 km
+- ❌ 3.2km
 
 **Percentages:**
 
-- ❌ 79%
 - ✅ 79 %
+- ❌ 79%
 
 **Time:**
 
-- ❌ 12 min. 36 sec.
 - ✅ 12 min 36 s
+- ❌ 12 min. 36 sec.
 
 ### 3.3. Ellipsis symbol
 
