@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-06-27_  
-_Version 2.6.0, Revision Placer-Style-Guide:08-2025_
+_Zuletzt bearbeitet: 2025-09-10_  
+_Version 2.7.0, Revision Placer-Style-Guide:09-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -55,16 +55,15 @@ Verwenden Sie die **Passivform** nur, wenn:
 
 ### 2.4. Groß‐ und Kleinschreibung
 
-- **Produktnamen und Spezifikationen:** Immer in **Großschreibung der Anfangsbuchstaben** (z. B. „Placer Style Guide“).
+- **Produktnamen und Spezifikationen:** Immer in **Großschreibung der Anfangsbuchstaben** (z. B. Placer Style Guide).
 - **Alle anderen Überschriften und Fließtext:** Verwenden Sie **Groß‐ und Kleinschreibung des Satzanfangs** (z. B. „Dies ist eine Abschnittsüberschrift.“).
-- **Produktnamen:** Immer so schreiben, wie offiziell festgelegt (z. B. „Placer Toolkit“).
-- **Komponentenbezeichnungen:** Spezifische Placer Toolkit‐Komponenten großschreiben (z. B. Avatar, Button, Input).
+- **Produktnamen:** Immer so schreiben, wie offiziell festgelegt (z. B. Placer Toolkit).
 - **Benutzeroberflächenelemente:** Namen spezifischer Bedienelemente großschreiben (z. B. **Schließen**‐Schaltfläche, **Element 1** im Dropdown).
 - **Eigennamen:** Normale Regeln für Eigennamen beachten (Personen, Orte, Organisationen).
 
 #### 2.4.1 Versalschrift
 
-In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das große Eszett (`ẞ`) statt „ss“.
+In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das große Eszett (`ẞ`) statt „SS“.
 
 - **Straße** → **STRAẞE**
 - **Maße** → **MAẞE**
@@ -96,23 +95,52 @@ Diese Zeichen sind klar zu unterscheiden:
     - Für Einschübe, die Sätze unterbrechen (z. B. „Dieser Satz wird – wie dieser Einschub – durch einen Gedankenstrich gegliedert.“).
     - **Hinweis:** Im Deutschen wird der Gedankenstrich in der Regel mit Leerzeichen verwendet, nicht wie im Englischen ohne.
 - **Mathematisches Minus (`−`, U+2212):**
-    - Nur für mathematische Operationen (z. B. 4 − 2 = 2).
+    - Nur für mathematische Operationen (z. B. $4 − 2 = 2$).
     - Deutlich unterscheidbar von Bindestrich und Halbgeviertstrich.
     - Verwenden Sie geschützte Leerzeichen (` `) innerhalb von Gleichungen, damit kein Zeilenumbruch erfolgt.
+        - Wir empfehlen Sie, [MathML (maschinellübersetzt)](https://developer.mozilla.org/de/docs/Web/MathML) für Mathematik zu benutzen, außer wenn es nötig ist, bevorzuge diese Empfehlung.
 
-<!-- Dies kann nicht lokalisiert sein (GitHub-flavored Markdown). -->
-> [!TIP]
-> In Überschriften ersetzen Sie den Gedankenstrich (`—`) durch einen **Halbgeviertstrich** mit geschützten Leerzeichen (` – `) für besseren Lesefluss.
->
-> - **Bevorzugt (in der Überschrift):** Der Styleguide – Ein wichtiger Leitfaden
+### 3.2. SI-Konventionen
 
-### 3.2. Auslassungszeichen
+Wir empfehlen, in allen Inhalten die SI‐Konventionen zu befolgen.
+
+- Fügen Sie ein **schmales geschütztes Leerzeichen (` `, U+202F)** zwischen Zahl und Einheit ein (Prozent wird ebenfalls als Einheit behandelt).
+- Verwenden Sie dasselbe schmale geschützte Leerzeichen als **Tausendertrennzeichen**.
+- Verwenden Sie ein Komma als **Dezimaltrennzeichen**.
+
+Achten Sie außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeiden Sie falsche Schreibweisen (z. B. **kB** für Kilobyte statt KB).
+
+**Tausendertrennzeichen:**
+
+- ✅ 1 234 567,89
+- ❌ 1.234.567,89
+- ❌ 1,234,567.89
+- ❌ 12,34,567.89
+
+**Längen:**
+
+- ✅ 3,2 km
+- ❌ 3,2km
+- ❌ 3,2 km
+
+**Prozentangaben:**
+
+- ✅ 79 %
+- ❌ 79 %
+- ❌ 79%
+
+**Zeitangaben:**
+
+- ✅ 12 min 36 s
+- ❌ 12 Min. 36 Sek.
+
+### 3.3. Auslassungszeichen
 
 - Immer das einzelne **Auslassungszeichen (`…`, U+2026)** verwenden, nicht drei Punkte (`...`).
 - Das Zeichen ist typografisch korrekt und fügt sich besser ins Schriftbild ein.
 - Fügen Sie ein geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
 
-### 3.3. Anführungszeichen
+### 3.4. Anführungszeichen
 
 - **Typografische Anführungszeichen** verwenden: in Deutsch unten „…“ oben, in eingebetteten Fällen ‚…‘.
 - Keine geraden Anführungszeichen (`""` oder `'`) nutzen.
