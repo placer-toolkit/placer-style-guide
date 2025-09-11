@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-09-10_  
-_Version 2.5.1, revision Placer-Style-Guide:09-2025_
+_Last updated: 2025-09-11_  
+_Version 2.5.2, revision Placer-Style-Guide:09-2025_
 
 This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -26,7 +26,7 @@ Placer’s content voice is **authoritative, helpful and precise, yet approachab
 
 ### 2.1. Audience
 
-Our primary audience consists of developers, designers and technical users who are seeking clear, accurate and actionable information about the Placer Toolkit. Content should be written to be understood by someone familiar with web development concepts but may not be an expert in every specific area.
+Our primary audience consists of developers, designers and technical users who are seeking clear, accurate and actionable information about Placer Toolkit. Content should be written to be understood by someone familiar with web development concepts but may not be an expert in every specific area.
 
 ### 2.2. Active vs passive voice
 
@@ -95,7 +95,7 @@ We recommend following SI conventions throughout your content.
 - Use the same narrow non‐breaking space for the **thousands separator**.
 - Use a comma instead of a full stop for **decimal separators** (although SI allows both).
 
-Make sure you also use the proper SI units and avoid incorrect forms (e.g., KB for kilobyte instead of **kB**).
+Make sure you also use the proper SI units and avoid incorrect forms (e.g., **kB** for kilobyte instead of KB).
 
 **Thousands separator:**
 
