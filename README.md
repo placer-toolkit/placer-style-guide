@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is Placer Style Guide v1, which is now deprecated. Please refer to v2 for the official, current style guide. This version is retained for historical reference only and should not be used in new content.
+
 # ✨ Placer Style Guide
 
 **The official style guide for projects made by Placer. ✨**
