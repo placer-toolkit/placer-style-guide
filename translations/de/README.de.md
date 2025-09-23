@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-09-20_  
-_Version 2.7.1, Revision Placer-Style-Guide:09-2025_
+_Zuletzt bearbeitet: 2025-09-23_  
+_Version 2.8.0, Revision Placer-Style-Guide:09-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -15,12 +15,12 @@ Die inhaltliche Stimme von Placer ist **sachkundig, hilfreich und präzise, zugl
 
 - **Klar und prägnant sein:** Ohne unnötigen Fachjargon direkt auf den Punkt kommen.
 - **Unterstützend sein:** Nutzer sicher durch Aufgaben und Erklärungen führen.
-- **Respektvoll sein:** Wir formulieren inklusiv und sprechen unsere Nutzer direkt an („Sie“).
+- **Respektvoll sein:** Wir formulieren inklusiv und sprechen unsere Nutzer direkt an („du“).
 - **Professionell sein:** Einen hohen Standard an Genauigkeit und Darstellung wahren.
 - **Begeisterung zu zeigen (insbesondere bei Marketing‐ und Werbeinhalten):** Wir vermitteln Leidenschaft für unsere Produkte und ihren Nutzen.
 
-**So machen Sie es richtig:** Aktiv formulieren, Nutzer direkt ansprechen („Sie“) und einfache Sprache verwenden.  
-**Das sollten Sie vermeiden:** Passiv formulieren (außer wenn nötig), zu salopp oder zu förmlich wirken und Fachjargon ohne Erklärung einsetzen.
+**So machst du das richtig:** Aktiv formulieren, Nutzer direkt ansprechen („du“) und einfache Sprache verwenden.  
+**Das solltest du vermeiden:** Passiv formulieren (außer wenn nötig), zu salopp oder zu förmlich wirken und Fachjargon ohne Erklärung einsetzen.
 
 ## 2 Allgemeine Schreibprinzipien
 
@@ -46,7 +46,7 @@ Wir bevorzugen in der Regel die **Aktivform**, da sie klarer, direkter und präg
 - **Bevorzugt (aktiv):** „Nutzer können ihre Profildaten aktualisieren.“
 - **Vermeiden (passiv):** „Die Profildaten können von den Nutzern aktualisiert werden.“
 
-Verwenden Sie die **Passivform** nur, wenn:
+Verwende die **Passivform** nur, wenn:
 
 - Der Handelnde unbekannt oder unwichtig ist.
     - **Beispiel:** „Die Software wurde über Nacht aktualisiert.“ (Die Person ist nicht relevant.)
@@ -56,7 +56,7 @@ Verwenden Sie die **Passivform** nur, wenn:
 ### 2.4 Groß‐ und Kleinschreibung
 
 - **Produktnamen und Spezifikationen:** Immer in **Großschreibung der Anfangsbuchstaben** (z. B. Placer Style Guide).
-- **Alle anderen Überschriften und Fließtext:** Verwenden Sie **Groß‐ und Kleinschreibung des Satzanfangs** (z. B. „Dies ist eine Abschnittsüberschrift.“).
+- **Alle anderen Überschriften und Fließtext:** Verwende **Groß‐ und Kleinschreibung des Satzanfangs** (z. B. „Dies ist eine Abschnittsüberschrift.“).
 - **Produktnamen:** Immer so schreiben, wie offiziell festgelegt (z. B. Placer Toolkit).
 - **Benutzeroberflächenelemente:** Namen spezifischer Bedienelemente großschreiben (z. B. **Schließen**‐Schaltfläche, **Element 1** im Dropdown).
 - **Eigennamen:** Normale Regeln für Eigennamen beachten (Personen, Orte, Organisationen).
@@ -73,7 +73,7 @@ In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das groß
 
 - **Zahlen über 10:** Immer Ziffern verwenden (z. B. 15 Nutzer, 200 Geräte, 10 Schritte).
 - **Zahlen 0–9:** Ausgeschrieben (z. B. drei Schritte, sieben Tage). Ausnahme: Tabellen, Diagramme oder technische Kontexte, in denen Einheitlichkeit mit Ziffern entscheidend ist (z. B. „Version 1.9.2“).
-- **Zeitangaben:** Verwenden Sie das 24‐Stunden‐Format nach der DIN 5008‐Norm (z. B. 08:12 Uhr, 15:45 Uhr). Sie sollten nie das 12‐Stunden‐Format nutzen.
+- **Zeitangaben:** Verwende das 24‐Stunden‐Format nach der DIN 5008‐Norm (z. B. 08:12 Uhr, 15:45 Uhr). Du solltest nie das 12‐Stunden‐Format nutzen.
 
 ## 3 Zeichensetzung und Abstände
 
@@ -88,7 +88,7 @@ Diese Zeichen sind klar zu unterscheiden:
     - Für Wortzusammensetzungen mit Ziffern oder Symbolen (z. B. 40‐Stunden‐Woche, T‐Shirt).
     - Nicht für feststehende Produktnamen oder Begriffe verwenden, die den Bindestrich‐Minus (`-`) enthalten (z. B. SHA-512, Mercedes-Benz).
 - **Geschützter Bindestrich (`‑`, U+2011):**
-    - Verwenden Sie dieses Zeichen, wenn ein Wort nicht am Zeilenende getrennt werden darf (z. B. Co‑Founder, Jean‑Paul).
+    - Verwende dieses Zeichen, wenn ein Wort nicht am Zeilenende getrennt werden darf (z. B. Co‑Founder, Jean‑Paul).
 - **Halbgeviertstrich (`–`, U+2013):**
     - Für Zahlen‐ und Datumsbereiche (z. B. 1–10, März–April, Berlin–Hamburg‐Flug).
 - **Gedankenstrich (` – `, NBSP–U+2013–NBSP):**
@@ -97,18 +97,18 @@ Diese Zeichen sind klar zu unterscheiden:
 - **Mathematisches Minus (`−`, U+2212):**
     - Nur für mathematische Operationen (z. B. $4 − 2 = 2$).
     - Deutlich unterscheidbar von Bindestrich und Halbgeviertstrich.
-    - Verwenden Sie geschützte Leerzeichen (` `) innerhalb von Gleichungen, damit kein Zeilenumbruch erfolgt.
-        - Wir empfehlen Sie, [MathML (maschinellübersetzt)](https://developer.mozilla.org/de/docs/Web/MathML) für Mathematik zu benutzen, außer wenn es nötig ist, bevorzuge diese Empfehlung.
+    - Verwende geschützte Leerzeichen (` `) innerhalb von Gleichungen, damit kein Zeilenumbruch erfolgt.
+        - Wir empfehlen, [MathML (maschinellübersetzt)](https://developer.mozilla.org/de/docs/Web/MathML) für mathematische Formeln zu verwenden. Falls das nicht möglich ist, sollte diese Empfehlung bevorzugt werden.
 
 ### 3.2 SI-Konventionen
 
 Wir empfehlen, in allen Inhalten die SI‐Konventionen zu befolgen.
 
-- Fügen Sie ein **schmales geschütztes Leerzeichen (` `, U+202F)** zwischen Zahl und Einheit ein (Prozent wird ebenfalls als Einheit behandelt).
-- Verwenden Sie dasselbe schmale geschützte Leerzeichen als **Tausendertrennzeichen**.
-- Verwenden Sie ein Komma als **Dezimaltrennzeichen**.
+- Füge ein **schmales geschütztes Leerzeichen (` `, U+202F)** zwischen Zahl und Einheit ein (Prozent wird ebenfalls als Einheit behandelt).
+- Verwende dasselbe schmale geschützte Leerzeichen als **Tausendertrennzeichen**.
+- Verwende ein Komma als **Dezimaltrennzeichen**.
 
-Achten Sie außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeiden Sie falsche Schreibweisen (z. B. **kB** für Kilobyte statt KB).
+Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide falsche Schreibweisen (z. B. **kB** für Kilobyte statt KB).
 
 **Tausendertrennzeichen:**
 
@@ -138,7 +138,7 @@ Achten Sie außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und verm
 
 - Immer das einzelne **Auslassungszeichen (`…`, U+2026)** verwenden, nicht drei Punkte (`...`).
 - Das Zeichen ist typografisch korrekt und fügt sich besser ins Schriftbild ein.
-- Fügen Sie ein geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
+- Füge ein geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
 
 ### 3.4 Anführungszeichen
 
@@ -147,7 +147,7 @@ Achten Sie außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und verm
 
 **Apostroph:**
 
-- Verwenden Sie immer das **schließende einfache Anführungszeichen (`’`)** für den Apostroph (z. B. „geht’s“ oder bei Eigennamen, die auf „‐s“ enden, wie „Hans’ Auto“).
+- Verwende immer das **schließende einfache Anführungszeichen (`’`)** für den Apostroph (z. B. „geht’s“ oder bei Eigennamen, die auf „‐s“ enden, wie „Hans’ Auto“).
 - Bei Abkürzungen mit Apostroph (z. B. ’90er) ebenfalls das schließende Zeichen verwenden.
 
 **Prim‐ und Doppelprimzeichen:**
@@ -187,8 +187,8 @@ Achten Sie außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und verm
 
 - Benutzeroberflächenelemente (Schaltflächen, Menüpunkte, Eingabefelder, Tabs) konsequent bezeichnen.
 - Namen von Benutzeroberflächenelementen wie in der Oberfläche, fett und mit Großschreibung.
-    - **Beispiel:** Klicken Sie auf die Schaltfläche **OK**.
-    - **Beispiel:** Wählen Sie den Tab **Allgemein**.
+    - **Beispiel:** Klicke auf die Schaltfläche **OK**.
+    - **Beispiel:** Wähle den Tab **Allgemein**.
 - Bei Benutzeroberflächenelementen, die mit Auslassungszeichen (`…`) oder Ausrufezeichen (`!`) enden, keinen zusätzlichen Punkt setzen.
     - **Beispiel:** Menü **Datei > Speichern unter …**
 
