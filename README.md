@@ -3,7 +3,7 @@
 **The official guide for creating clear, consistent and professional content at Placer.**
 
 _Last updated: 2025-09-27_  
-_Version 2.5.3, revision Placer-Style-Guide:09-2025_
+_Version 2.5.4, revision Placer-Style-Guide:09-2025_
 
 This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -136,7 +136,7 @@ Make sure you also use the proper SI units and avoid incorrect forms (e.g., **kB
 
 **Prime and double prime symbols:**
 
-- Use the **prime (`′`, U+2032)** and **double prime (`″`, U+2033)** symbols for imperial heights and geographic coordinates, not apostrophes or straight quotes.
+- Use the **prime (`′`, U+2032)** and **double prime (`″`, U+2033)** symbols for geographic coordinates, not apostrophes or straight quotes.
     - **Example:**
         - ✅ `51° 28′ 37″ N, 0° 0′ 2″ W`
         - ❌ `51° 28’ 37” N, 0° 0’ 2” W`
