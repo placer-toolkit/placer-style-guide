@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-09-25_  
-_Version 2.8.1, Revision Placer-Style-Guide:09-2025_
+_Zuletzt bearbeitet: 2025-10-05_  
+_Version 2.8.2, Revision Placer-Style-Guide:10-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -133,7 +133,7 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide 
 
 **Zeitangaben:**
 
-- ✅ 12 min 36 s
+- ✅ 12 min 36 s
 - ❌ 12 Min. 36 Sek.
 
 ### 3.3 Auslassungszeichen
