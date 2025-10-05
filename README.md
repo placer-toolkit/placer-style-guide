@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-09-27_  
-_Version 2.5.4, revision Placer-Style-Guide:09-2025_
+_Last updated: 2025-10-05_  
+_Version 2.5.5, revision Placer-Style-Guide:10-2025_
 
 This style guide provides the essential standards and best practices for all Placer content, from product documentation and website copy to marketing materials and internal communications. By adhering to these guidelines, we ensure a unified voice, enhance readability and reinforce Placer’s brand identity across all our platforms.
 
@@ -116,7 +116,7 @@ Make sure you also use the proper SI units and avoid incorrect forms (e.g., **kB
 
 **Time:**
 
-- ✅ 12 min 36 s
+- ✅ 12 min 36 s
 - ❌ 12 min. 36 sec.
 
 ### 3.3. Ellipsis symbol
