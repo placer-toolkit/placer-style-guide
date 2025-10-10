@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-10-05_  
-_Version 2.8.2, Revision Placer-Style-Guide:10-2025_
+_Zuletzt bearbeitet: 2025-10-10_  
+_Version 2.8.3, Revision Placer-Style-Guide:10-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -196,6 +196,6 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide 
 
 ---
 
-_Dieses Werk ist unter der Creative Commons Attribution 4.0 International License (CC BY 4.0) lizenziert. Eine von uns erstellte Zusammenfassung finden Sie unter [LICENSE.de.md](./LICENSE.de.md), die offizielle Lizenz ist unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) abrufbar._
+_Dieses Werk ist unter der Creative Commons Attribution 4.0 International License (CC BY 4.0) lizenziert. Eine von uns erstellte Zusammenfassung findest du unter [LICENSE.de.md](./LICENSE.de.md), die offizielle Lizenz ist unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) abrufbar._
 
 © 2025 Placer und Mitwirkende
