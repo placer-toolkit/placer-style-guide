@@ -3,23 +3,23 @@
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
 _Zuletzt bearbeitet: 2025-10-16_  
-_Version 2.8.4, Revision Placer-Style-Guide:10-2025_
+_Version 2.8.5, Revision Placer-Style-Guide:10-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
-Dieser Leitfaden soll Content‐Erstellern eine praktische Unterstützung bieten. Eine konsequente Anwendung dieser Standards ermöglicht es uns, effizient hochwertige und präzise Informationen bereitzustellen.
+Dieser Leitfaden soll Content‐Erstellenden eine praktische Unterstützung bieten. Eine konsequente Anwendung dieser Standards ermöglicht es uns, effizient hochwertige und präzise Informationen bereitzustellen.
 
 ## 1 Sprachstil und Tonalität
 
 Die inhaltliche Stimme von Placer ist **sachkundig, hilfreich und präzise, zugleich aber zugänglich**. Unser Ziel ist es:
 
 - **Klar und prägnant sein:** Ohne unnötigen Fachjargon direkt auf den Punkt kommen.
-- **Unterstützend sein:** Nutzer sicher durch Aufgaben und Erklärungen führen.
-- **Respektvoll sein:** Wir formulieren inklusiv und sprechen unsere Nutzer direkt an („du“).
+- **Unterstützend sein:** Nutzer:innen sicher durch Aufgaben und Erklärungen führen.
+- **Respektvoll sein:** Wir formulieren inklusiv und sprechen unsere Nutzer:innen direkt an („du“).
 - **Professionell sein:** Einen hohen Standard an Genauigkeit und Darstellung wahren.
 - **Begeisterung zu zeigen (insbesondere bei Marketing‐ und Werbeinhalten):** Wir vermitteln Leidenschaft für unsere Produkte und ihren Nutzen.
 
-**So machst du das richtig:** Aktiv formulieren, Nutzer direkt ansprechen („du“) und einfache Sprache verwenden.  
+**So machst du das richtig:** Aktiv formulieren, Nutzer:innen direkt ansprechen („du“) und einfache Sprache verwenden.  
 **Das solltest du vermeiden:** Passiv formulieren (außer wenn nötig), zu salopp oder zu förmlich wirken und Fachjargon ohne Erklärung einsetzen.
 
 ## 2 Allgemeine Schreibprinzipien
@@ -37,20 +37,20 @@ Für zusammengesetzte Verben und Substantive verwenden wir die standardmäßige 
 
 ### 2.1 Zielgruppe
 
-Unsere Hauptzielgruppe sind Entwickler, Designer und technisch versierte Anwender, die klare, genaue und umsetzbare Informationen zum Placer Toolkit suchen. Die Inhalte sollten so geschrieben sein, dass sie für jemanden mit Grundkenntnissen in der Webentwicklung verständlich sind, auch wenn er nicht in jedem Teilbereich Experte ist.
+Unsere Hauptzielgruppe sind Entwickler:innen, Designer:innen und technisch versierte Anwender:innen, die klare, genaue und umsetzbare Informationen zu Placer Toolkit suchen. Die Inhalte sollten so geschrieben sein, dass sie für jemanden mit Grundkenntnissen in der Webentwicklung verständlich sind, auch wenn diese nicht in jedem Teilbereich Experten sind.
 
 ### 2.2 Aktiv oder Passiv
 
 Wir bevorzugen in der Regel die **Aktivform**, da sie klarer, direkter und prägnanter ist und eindeutig den Handelnden benennt.
 
-- **Bevorzugt (aktiv):** „Nutzer können ihre Profildaten aktualisieren.“
-- **Vermeiden (passiv):** „Die Profildaten können von den Nutzern aktualisiert werden.“
+- **Bevorzugt (aktiv):** „Nutzer:innen können ihre Profildaten aktualisieren.“
+- **Vermeiden (passiv):** „Die Profildaten können von den Nutzer:innen aktualisiert werden.“
 
 Verwende die **Passivform** nur, wenn:
 
 - Der Handelnde unbekannt oder unwichtig ist.
     - **Beispiel:** „Die Software wurde über Nacht aktualisiert.“ (Die Person ist nicht relevant.)
-- Die Handlung oder deren Empfänger betont werden soll.
+- Die Handlung oder deren Empfänger:in betont werden soll.
     - **Beispiel:** „Sicherheitslücken wurden entdeckt und umgehend geschlossen.“
 
 ### 2.3 Groß‐ und Kleinschreibung
@@ -71,7 +71,7 @@ In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das groß
 
 ### 2.4 Zahlen und Maße
 
-- **Zahlen über 10:** Immer Ziffern verwenden (z. B. 15 Nutzer, 200 Geräte, 10 Schritte).
+- **Zahlen über 10:** Immer Ziffern verwenden (z. B. 15 Nutzer:innen, 200 Geräte, 10 Schritte).
 - **Zahlen 0–9:** Ausgeschrieben (z. B. drei Schritte, sieben Tage). Ausnahme: Tabellen, Diagramme oder technische Kontexte, in denen Einheitlichkeit mit Ziffern entscheidend ist (z. B. „Version 1.9.2“).
 - **Zeitangaben:** Verwende das 24‐Stunden‐Format nach der DIN 5008‐Norm (z. B. 08:12 Uhr, 15:45 Uhr). Du solltest nie das 12‐Stunden‐Format nutzen.
 
@@ -140,7 +140,7 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide 
 
 - Immer das einzelne **Auslassungszeichen (`…`, U+2026)** verwenden, nicht drei Punkte (`...`).
 - Das Zeichen ist typografisch korrekt und fügt sich besser ins Schriftbild ein.
-- Füge ein geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
+- Füge ein schmales geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
 
 ### 3.4 Anführungszeichen
 
