@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-10-10_  
-_Version 2.8.3, Revision Placer-Style-Guide:10-2025_
+_Zuletzt bearbeitet: 2025-10-16_  
+_Version 2.8.4, Revision Placer-Style-Guide:10-2025_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -39,7 +39,7 @@ Für zusammengesetzte Verben und Substantive verwenden wir die standardmäßige 
 
 Unsere Hauptzielgruppe sind Entwickler, Designer und technisch versierte Anwender, die klare, genaue und umsetzbare Informationen zum Placer Toolkit suchen. Die Inhalte sollten so geschrieben sein, dass sie für jemanden mit Grundkenntnissen in der Webentwicklung verständlich sind, auch wenn er nicht in jedem Teilbereich Experte ist.
 
-### 2.2 Aktiv vs. Passiv
+### 2.2 Aktiv oder Passiv
 
 Wir bevorzugen in der Regel die **Aktivform**, da sie klarer, direkter und prägnanter ist und eindeutig den Handelnden benennt.
 
