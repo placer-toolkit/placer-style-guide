@@ -2,8 +2,10 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-10-16_  
-_Version 2.8.5, Revision Placer-Style-Guide:10-2025_
+_Zuletzt bearbeitet: 2025-10-25_  
+_Version 2.8.6, Revision Placer-Style-Guide:10-2025_
+
+_Geschätzte Lesezeit: 3 min 25 s_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
