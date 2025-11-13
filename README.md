@@ -2,8 +2,8 @@
 
 **The official guide for creating clear, consistent and professional content at Placer.**
 
-_Last updated: 2025-10-25_  
-_Version 2.5.6, revision Placer-Style-Guide:10-2025_
+_Last updated: 2025-11-13_  
+_Version 2.5.7, revision Placer-Style-Guide:11-2025_
 
 _Estimated reading time: 2 min 25 s_
 
@@ -192,6 +192,6 @@ Make sure you also use the proper SI units and avoid incorrect forms (e.g., **kB
 
 ---
 
-_This work is licenced under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You may view our human‐generated summary at [LICENSE.md](./LICENSE.md) or obtain a copy of the official licence at [https://creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)._
+_This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You may view our human‐generated summary at [LICENSE.md](./LICENSE.md) or obtain a copy of the official licence at [https://creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0)._
 
 © 2025 Placer and its contributors
