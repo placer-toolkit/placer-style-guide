@@ -2,10 +2,10 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-10-25_  
-_Version 2.8.6, Revision Placer-Style-Guide:10-2025_
+_Zuletzt bearbeitet: 2025-11-13_  
+_Version 2.9.0, Revision Placer-Style-Guide:11-2025_
 
-_Geschätzte Lesezeit: 3 min 25 s_
+_Geschätzte Lesezeit: 3 min 50 s_
 
 Dieser Styleguide legt die wichtigsten Standards und bewährten Methoden für alle Placer‐Inhalte fest. Er gilt für alles, von Produktdokumentationen und Website‐Texten über Marketingmaterialien bis hin zur internen Kommunikation. Indem wir diese Richtlinien befolgen, stellen wir eine einheitliche Markenstimme sicher, verbessern die Lesbarkeit und stärken die Identität von Placer auf allen Plattformen.
 
@@ -94,10 +94,14 @@ Diese Zeichen sind klar zu unterscheiden:
 - **Geschützter Bindestrich (`‑`, U+2011):**
     - Verwende dieses Zeichen, wenn ein Wort nicht am Zeilenende getrennt werden darf (z. B. Co‑Founder, Jean‑Paul).
 - **Halbgeviertstrich (`–`, U+2013):**
-    - Für Zahlen‐ und Datumsbereiche (z. B. 1–10, März–April, Berlin–Hamburg‐Flug).
-- **Gedankenstrich (` – `, NBSP–U+2013–NBSP):**
-    - Für Einschübe, die Sätze unterbrechen (z. B. „Dieser Satz wird – wie dieser Einschub – durch einen Gedankenstrich gegliedert.“).
-    - **Hinweis:** Im Deutschen wird der Gedankenstrich in der Regel mit Leerzeichen verwendet, nicht wie im Englischen ohne.
+    - Für Zahlen‐ und ungenaue Datumsbereiche (z. B. 1–10, 2000–2005).
+    - Keine Leerzeichen bei kurzen, zusammengehörenden Ausdrücken oder Werten (z. B. A–Z, 1–10, 2000–2005, 50–60 cm).
+    - Leerzeichen nur bei mehrgliedrigen oder längeren Ausdrücken, die nicht eindeutig zusammengehören, z. B. −10 – −5 (besser: −10 bis −5), 1. Okt. 1978 – 30. Nov. 1979.
+        - Verwende geschützte Leerzeichen statt das standardmäßige Leerzeichen, damit kein Zeilenumbruch erfolgt.
+    - Wenn Verwechslung möglich ist oder Klarheit nötig ist, kann das Wort „bis“ ausgeschrieben werden (z. B. −10 bis −5, von 2005 bis 20100).
+- **Gedankenstrich (` – `, U+00A0 – U+2013 – U+0020):**
+    - Für Einschübe, die Sätze unterbrechen (z. B. „Dieser Satz wird – wie dieser Einschub – durch einen Gedankenstrich gegliedert.“).
+    - **Hinweis:** Im Deutschen wird der Gedankenstrich in der Regel mit dem Halbgeviertstrich geschrieben, davor ein geschütztes Leerzeichen, danach ein normales Leerzeichen.
 - **Mathematisches Minus (`−`, U+2212):**
     - Nur für mathematische Operationen (z. B. $4 − 2 = 2$).
     - Deutlich unterscheidbar von Bindestrich und Halbgeviertstrich.
@@ -143,6 +147,7 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide 
 - Immer das einzelne **Auslassungszeichen (`…`, U+2026)** verwenden, nicht drei Punkte (`...`).
 - Das Zeichen ist typografisch korrekt und fügt sich besser ins Schriftbild ein.
 - Füge ein schmales geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
+    - Aber wenn der Text abgeschnitten ist, füge keinen Leerzeichen vor dem Auslassungszeichen (z. B. „Ich wollte eigen…“).
 
 ### 3.4 Anführungszeichen
 
