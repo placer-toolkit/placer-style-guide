@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-11-13_  
-_Version 2.9.0, Revision Placer-Style-Guide:11-2025_
+_Zuletzt bearbeitet: 2025-11-23_  
+_Version 2.9.1, Revision Placer-Style-Guide:11-2025_
 
 _Geschätzte Lesezeit: 3 min 50 s_
 
@@ -32,10 +32,10 @@ Unser Styleguide basiert auf der **modernen deutschen Orthografie**. Wir folgen 
 
 Wir bevorzugen die klaren und logischen Schreibweisen, die die Reform eingeführt hat, einschließlich:
 
-- Die konsistente Verwendung von **ss** und **ß** nach kurzen bzw. langen Vokalen (z. B. dass, Straße).
-- Die Vereinfachung bestimmter Schreibweisen (z. B. **Grafik** statt Graphik, **Schifffahrt** statt Schiffahrt).
+- Die konsistente Verwendung von **ss** und **ß** nach kurzen bzw. langen Vokalen (z. B. dass, Straße).
+- Die Vereinfachung bestimmter Schreibweisen (z. B. **Grafik** statt Graphik, **Schifffahrt** statt Schiffahrt).
 
-Für zusammengesetzte Verben und Substantive verwenden wir die standardmäßige Zusammenschreibung (z. B. eislaufen, radfahren), um die Lesbarkeit und Einheitlichkeit von Begriffen zu gewährleisten.
+Für zusammengesetzte Verben und Substantive verwenden wir die standardmäßige Zusammenschreibung (z. B. eislaufen, radfahren), um die Lesbarkeit und Einheitlichkeit von Begriffen zu gewährleisten.
 
 ### 2.1 Zielgruppe
 
@@ -57,10 +57,10 @@ Verwende die **Passivform** nur, wenn:
 
 ### 2.3 Groß‐ und Kleinschreibung
 
-- **Produktnamen und Spezifikationen:** Immer in **Großschreibung der Anfangsbuchstaben** (z. B. Placer Style Guide).
-- **Alle anderen Überschriften und Fließtext:** Verwende **Groß‐ und Kleinschreibung des Satzanfangs** (z. B. „Dies ist eine Abschnittsüberschrift.“).
-- **Produktnamen:** Immer so schreiben, wie offiziell festgelegt (z. B. Placer Toolkit).
-- **Benutzeroberflächenelemente:** Namen spezifischer Bedienelemente großschreiben (z. B. **Schließen**‐Schaltfläche, **Element 1** im Dropdown).
+- **Produktnamen und Spezifikationen:** Immer in **Großschreibung der Anfangsbuchstaben** (z. B. Placer Style Guide).
+- **Alle anderen Überschriften und Fließtext:** Verwende **Groß‐ und Kleinschreibung des Satzanfangs** (z. B. „Dies ist eine Abschnittsüberschrift.“).
+- **Produktnamen:** Immer so schreiben, wie offiziell festgelegt (z. B. Placer Toolkit).
+- **Benutzeroberflächenelemente:** Namen spezifischer Bedienelemente großschreiben (z. B. **Schließen**‐Schaltfläche, **Element 1** im Dropdown).
 - **Eigennamen:** Normale Regeln für Eigennamen beachten (Personen, Orte, Organisationen).
 
 #### 2.3.1 Versalschrift
@@ -73,9 +73,9 @@ In Versalschrift, wenn ein Eszett (`ß`) vorkommt, verwenden wir immer das groß
 
 ### 2.4 Zahlen und Maße
 
-- **Zahlen über 10:** Immer Ziffern verwenden (z. B. 15 Nutzer:innen, 200 Geräte, 10 Schritte).
-- **Zahlen 0–9:** Ausgeschrieben (z. B. drei Schritte, sieben Tage). Ausnahme: Tabellen, Diagramme oder technische Kontexte, in denen Einheitlichkeit mit Ziffern entscheidend ist (z. B. „Version 1.9.2“).
-- **Zeitangaben:** Verwende das 24‐Stunden‐Format nach der DIN 5008‐Norm (z. B. 08:12 Uhr, 15:45 Uhr). Du solltest nie das 12‐Stunden‐Format nutzen.
+- **Zahlen über 10:** Immer Ziffern verwenden (z. B. 15 Nutzer:innen, 200 Geräte, 10 Schritte).
+- **Zahlen 0–9:** Ausgeschrieben (z. B. drei Schritte, sieben Tage). Ausnahme: Tabellen, Diagramme oder technische Kontexte, in denen Einheitlichkeit mit Ziffern entscheidend ist (z. B. „Version 1.9.2“).
+- **Zeitangaben:** Verwende das 24‐Stunden‐Format nach der DIN 5008‐Norm (z. B. 08:12 Uhr, 15:45 Uhr). Du solltest nie das 12‐Stunden‐Format nutzen.
 
 ## 3 Zeichensetzung und Abstände
 
@@ -88,22 +88,22 @@ Für die allgemeinen Regeln der Zeichensetzung gilt die **DIN 5008**, sofern nac
 Diese Zeichen sind klar zu unterscheiden:
 
 - **„Echter Bindestrich“ (`‐`, U+2010):**
-    - Für zusammengesetzte Wörter (z. B. E‐Mail, U‐Bahn).
-    - Für Wortzusammensetzungen mit Ziffern oder Symbolen (z. B. 40‐Stunden‐Woche, T‐Shirt).
-    - Nicht für feststehende Produktnamen oder Begriffe verwenden, die den Bindestrich‐Minus (`-`) enthalten (z. B. SHA-512, Mercedes-Benz).
+    - Für zusammengesetzte Wörter (z. B. E‐Mail, U‐Bahn).
+    - Für Wortzusammensetzungen mit Ziffern oder Symbolen (z. B. 40‐Stunden‐Woche, T‐Shirt).
+    - Nicht für feststehende Produktnamen oder Begriffe verwenden, die den Bindestrich‐Minus (`-`) enthalten (z. B. SHA-512, Mercedes-Benz).
 - **Geschützter Bindestrich (`‑`, U+2011):**
-    - Verwende dieses Zeichen, wenn ein Wort nicht am Zeilenende getrennt werden darf (z. B. Co‑Founder, Jean‑Paul).
+    - Verwende dieses Zeichen, wenn ein Wort nicht am Zeilenende getrennt werden darf (z. B. Co‑Founder, Jean‑Paul).
 - **Halbgeviertstrich (`–`, U+2013):**
-    - Für Zahlen‐ und ungenaue Datumsbereiche (z. B. 1–10, 2000–2005).
-    - Keine Leerzeichen bei kurzen, zusammengehörenden Ausdrücken oder Werten (z. B. A–Z, 1–10, 2000–2005, 50–60 cm).
-    - Leerzeichen nur bei mehrgliedrigen oder längeren Ausdrücken, die nicht eindeutig zusammengehören, z. B. −10 – −5 (besser: −10 bis −5), 1. Okt. 1978 – 30. Nov. 1979.
+    - Für Zahlen‐ und ungenaue Datumsbereiche (z. B. 1–10, 2000–2005).
+    - Keine Leerzeichen bei kurzen, zusammengehörenden Ausdrücken oder Werten (z. B. A–Z, 1–10, 2000–2005, 50–60 cm).
+    - Leerzeichen nur bei mehrgliedrigen oder längeren Ausdrücken, die nicht eindeutig zusammengehören, z. B. −10 – −5 (besser: −10 bis −5), 1. Okt. 1978 – 30. Nov. 1979.
         - Verwende geschützte Leerzeichen statt das standardmäßige Leerzeichen, damit kein Zeilenumbruch erfolgt.
-    - Wenn Verwechslung möglich ist oder Klarheit nötig ist, kann das Wort „bis“ ausgeschrieben werden (z. B. −10 bis −5, von 2005 bis 20100).
+    - Wenn Verwechslung möglich ist oder Klarheit nötig ist, kann das Wort „bis“ ausgeschrieben werden (z. B. −10 bis −5, von 2005 bis 20100).
 - **Gedankenstrich (` – `, U+00A0 – U+2013 – U+0020):**
-    - Für Einschübe, die Sätze unterbrechen (z. B. „Dieser Satz wird – wie dieser Einschub – durch einen Gedankenstrich gegliedert.“).
+    - Für Einschübe, die Sätze unterbrechen (z. B. „Dieser Satz wird – wie dieser Einschub – durch einen Gedankenstrich gegliedert.“).
     - **Hinweis:** Im Deutschen wird der Gedankenstrich in der Regel mit dem Halbgeviertstrich geschrieben, davor ein geschütztes Leerzeichen, danach ein normales Leerzeichen.
 - **Mathematisches Minus (`−`, U+2212):**
-    - Nur für mathematische Operationen (z. B. $4 − 2 = 2$).
+    - Nur für mathematische Operationen (z. B. $4 − 2 = 2$).
     - Deutlich unterscheidbar von Bindestrich und Halbgeviertstrich.
     - Verwende geschützte Leerzeichen (` `) innerhalb von Gleichungen, damit kein Zeilenumbruch erfolgt.
         - Wir empfehlen, [MathML (maschinellübersetzt)](https://developer.mozilla.org/de/docs/Web/MathML) für mathematische Formeln zu verwenden. Falls das nicht möglich ist, sollte diese Empfehlung bevorzugt werden.
@@ -116,7 +116,7 @@ Wir empfehlen, in allen Inhalten die SI‐Konventionen zu befolgen.
 - Verwende dasselbe schmale geschützte Leerzeichen als **Tausendertrennzeichen**.
 - Verwende ein Komma als **Dezimaltrennzeichen**.
 
-Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide falsche Schreibweisen (z. B. **kB** für Kilobyte statt KB).
+Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide falsche Schreibweisen (z. B. **kB** für Kilobyte statt KB).
 
 **Tausendertrennzeichen:**
 
@@ -146,8 +146,8 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide 
 
 - Immer das einzelne **Auslassungszeichen (`…`, U+2026)** verwenden, nicht drei Punkte (`...`).
 - Das Zeichen ist typografisch korrekt und fügt sich besser ins Schriftbild ein.
-- Füge ein schmales geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
-    - Aber wenn der Text abgeschnitten ist, füge keinen Leerzeichen vor dem Auslassungszeichen (z. B. „Ich wollte eigen…“).
+- Füge ein schmales geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
+    - Aber wenn der Text abgeschnitten ist, füge keinen Leerzeichen vor dem Auslassungszeichen (z. B. „Ich wollte eigen…“).
 
 ### 3.4 Anführungszeichen
 
@@ -156,8 +156,8 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide 
 
 **Apostroph:**
 
-- Verwende immer das **schließende einfache Anführungszeichen (`’`)** für den Apostroph (z. B. „geht’s“ oder bei Eigennamen, die auf „‐s“ enden, wie „Hans’ Auto“).
-- Bei Abkürzungen mit Apostroph (z. B. ’90er) ebenfalls das schließende Zeichen verwenden.
+- Verwende immer das **schließende einfache Anführungszeichen (`’`)** für den Apostroph (z. B. „geht’s“ oder bei Eigennamen, die auf „‐s“ enden, wie „Hans’ Auto“).
+- Bei Abkürzungen mit Apostroph (z. B. ’90er) ebenfalls das schließende Zeichen verwenden.
 
 **Prim‐ und Doppelprimzeichen:**
 
