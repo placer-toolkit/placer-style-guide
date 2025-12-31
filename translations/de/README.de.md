@@ -205,4 +205,4 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide 
 
 _Dieses Werk ist unter der Creative Commons Attribution 4.0 International License (CC BY 4.0) lizenziert. Eine von uns erstellte Zusammenfassung findest du unter [LICENSE.de.md](./LICENSE.de.md), die offizielle Lizenz ist unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) abrufbar._
 
-© 2025 Placer und Mitwirkende
+© 2025–heute Placer und Mitwirkende
