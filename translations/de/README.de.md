@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-11-23_  
-_Version 2.9.1, Revision Placer-Style-Guide:11-2025_
+_Zuletzt bearbeitet: 2025-01-25_  
+_Version 2.9.2, Revision Placer-Style-Guide:01-2026_
 
 _Geschätzte Lesezeit: 3 min 50 s_
 
@@ -39,7 +39,7 @@ Für zusammengesetzte Verben und Substantive verwenden wir die standardmäßige 
 
 ### 2.1 Zielgruppe
 
-Unsere Hauptzielgruppe sind Entwickler:innen, Designer:innen und technisch versierte Anwender:innen, die klare, genaue und umsetzbare Informationen zu Placer Toolkit suchen. Die Inhalte sollten so geschrieben sein, dass sie für jemanden mit Grundkenntnissen in der Webentwicklung verständlich sind, auch wenn diese nicht in jedem Teilbereich Experten sind.
+Unsere Hauptzielgruppe sind Entwickler:innen, Designer:innen und technisch versierte Anwender:innen, die klare, genaue und umsetzbare Informationen zu Placer Toolkit suchen. Die Inhalte sollten so geschrieben sein, dass sie für jemanden mit Grundkenntnissen in der Webentwicklung verständlich sind, auch wenn diese nicht in jedem Teilbereich Expert:innen sind.
 
 ### 2.2 Aktiv oder Passiv
 
@@ -116,7 +116,7 @@ Wir empfehlen, in allen Inhalten die SI‐Konventionen zu befolgen.
 - Verwende dasselbe schmale geschützte Leerzeichen als **Tausendertrennzeichen**.
 - Verwende ein Komma als **Dezimaltrennzeichen**.
 
-Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden, und vermeide falsche Schreibweisen (z. B. **kB** für Kilobyte statt KB).
+Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden und vermeide falsche Schreibweisen (z. B. **kB** für Kilobyte statt KB).
 
 **Tausendertrennzeichen:**
 
