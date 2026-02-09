@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-01-25_  
-_Version 2.9.2, Revision Placer-Style-Guide:01-2026_
+_Zuletzt bearbeitet: 2025-02-09_  
+_Version 2.9.3, Revision Placer-Style-Guide:02-2026_
 
 _Geschätzte Lesezeit: 3 min 50 s_
 
@@ -146,7 +146,7 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden und vermeide f
 
 - Immer das einzelne **Auslassungszeichen (`…`, U+2026)** verwenden, nicht drei Punkte (`...`).
 - Das Zeichen ist typografisch korrekt und fügt sich besser ins Schriftbild ein.
-- Füge ein schmales geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
+- Füge ein geschütztes Leerzeichen vor dem Auslassungszeichen ein (z. B. „Ich wollte eigentlich … aber dann kam mir etwas dazwischen.“).
     - Aber wenn der Text abgeschnitten ist, füge keinen Leerzeichen vor dem Auslassungszeichen (z. B. „Ich wollte eigen…“).
 
 ### 3.4 Anführungszeichen
@@ -171,7 +171,7 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden und vermeide f
 
 ### 4.0 Überschriften
 
-- Logische Hierarchie sicherstellen (Überschrift 1, 2, 3, …).
+- Logische Hierarchie sicherstellen (Überschrift 1, 2, 3, …).
 - Alle Unterüberschriften (ab Ebene 2) in **Groß‐ und Kleinschreibung des Satzanfangs**.
 - Haupttitel (Ebene 1): Produktnamen in Großschreibung, andere Inhalte nach Satzgroßschreibung.
 
@@ -199,7 +199,7 @@ Achte außerdem darauf, die richtigen SI‐Einheiten zu verwenden und vermeide f
     - **Beispiel:** Klicke auf die Schaltfläche **OK**.
     - **Beispiel:** Wähle den Tab **Allgemein**.
 - Bei Benutzeroberflächenelementen, die mit Auslassungszeichen (`…`) oder Ausrufezeichen (`!`) enden, keinen zusätzlichen Punkt setzen.
-    - **Beispiel:** Menü **Datei > Speichern unter …**
+    - **Beispiel:** Menü **Datei > Speichern unter …**
 
 ---
 
