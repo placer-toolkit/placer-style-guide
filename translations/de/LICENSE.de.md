@@ -1,4 +1,4 @@
-# Namensnennung 4.0 International
+# Creative Commons Namensnennung 4.0 International Public License
 
 Durch die Ausübung der lizenzierten Rechte (wie unten definiert) erklären
 Sie sich rechtsverbindlich mit den Bedingungen dieser Creative Commons
