@@ -1,6 +1,6 @@
 # Placer Style Guide
 
-**Der offizielle Leitfaden für die Erstellung von klaren, konsistenten und professionellen Inhalte bei Placer.**
+**Der offizielle Leitfaden für die Erstellung klarer, konsistenter und professioneller Inhalte bei Placer.**
 
 _Zuletzt bearbeitet: 2025-02-09_  
 _Version 2.9.3, Revision Placer-Style-Guide:02-2026_
