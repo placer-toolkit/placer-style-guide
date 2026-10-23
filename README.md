@@ -3,7 +3,7 @@
 **The official guide for creating clear, consistent and professional content at Placer.**
 
 _Last updated: 2025-11-13_  
-_Version 2.5.7, revision Placer-Style-Guide:11-2025_
+_Version 2.5.7, revision Placer-Style-Guide:2025-11_
 
 _Estimated reading time: 2 min 25 s_
 
