@@ -2,8 +2,8 @@
 
 **Der offizielle Leitfaden für die Erstellung klarer, konsistenter und professioneller Inhalte bei Placer.**
 
-_Zuletzt bearbeitet: 2025-02-09_  
-_Version 2.9.3, Revision Placer-Style-Guide:02-2026_
+_Zuletzt bearbeitet: 2026-10-23_  
+_Version 2.9.3, Revision Placer-Style-Guide:2026-10_
 
 _Geschätzte Lesezeit: 3 min 50 s_
 
@@ -98,7 +98,7 @@ Diese Zeichen sind klar zu unterscheiden:
     - Keine Leerzeichen bei kurzen, zusammengehörenden Ausdrücken oder Werten (z. B. A–Z, 1–10, 2000–2005, 50–60 cm).
     - Leerzeichen nur bei mehrgliedrigen oder längeren Ausdrücken, die nicht eindeutig zusammengehören, z. B. −10 – −5 (besser: −10 bis −5), 1. Okt. 1978 – 30. Nov. 1979.
         - Verwende geschützte Leerzeichen statt das standardmäßige Leerzeichen, damit kein Zeilenumbruch erfolgt.
-    - Wenn Verwechslung möglich ist oder Klarheit nötig ist, kann das Wort „bis“ ausgeschrieben werden (z. B. −10 bis −5, von 2005 bis 20100).
+    - Wenn Verwechslung möglich ist oder Klarheit nötig ist, kann das Wort „bis“ ausgeschrieben werden (z. B. −10 bis −5, von 2005 bis 2010).
 - **Gedankenstrich (` – `, U+00A0 – U+2013 – U+0020):**
     - Für Einschübe, die Sätze unterbrechen (z. B. „Dieser Satz wird – wie dieser Einschub – durch einen Gedankenstrich gegliedert.“).
     - **Hinweis:** Im Deutschen wird der Gedankenstrich in der Regel mit dem Halbgeviertstrich geschrieben, davor ein geschütztes Leerzeichen, danach ein normales Leerzeichen.
